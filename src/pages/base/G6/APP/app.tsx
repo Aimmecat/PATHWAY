@@ -1,7 +1,7 @@
 /*
  * @Author: your name
  * @Date: 2021-05-26 15:14:57
- * @LastEditTime: 2021-05-27 09:18:52
+ * @LastEditTime: 2021-05-27 20:03:59
  * @LastEditors: Please set LastEditors
  * @Description: In User Settings Edit
  * @FilePath: \Github\Frontends\src\pages\base\G6\APP\app.tsx
@@ -55,6 +55,7 @@ const layouts = [
   },
 ];
 export default () => {
+
   return (
     <div>
       <Row gutter={[12, 12]}>

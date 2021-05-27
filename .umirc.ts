@@ -30,7 +30,7 @@ export default defineConfig({
   },
   routes,
   ignoreMomentLocale: true,
-  title: '易文远程访问系统后台管理',
+  title: '生物信息平台',
   chainWebpack(config) {
     config.plugin('dayjs').use(AntdDayjsWebpackPlugin);
   },
