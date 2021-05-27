@@ -4,7 +4,7 @@
  * @作者: 李洪文
  * @Date: 2019-05-31 10:35:10
  * @LastEditors: Please set LastEditors
- * @LastEditTime: 2021-05-26 15:00:59
+ * @LastEditTime: 2021-05-27 14:57:17
  */
 
 export const routes = [
@@ -30,7 +30,7 @@ export const routes = [
       },
       {
         path:'/G6',
-        breadcrumbName:'G6测试'
+        breadcrumbName:'人体内造血细胞信号通路'
       },
     ],
   },
